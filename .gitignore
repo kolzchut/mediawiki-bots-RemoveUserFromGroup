@@ -1,0 +1,13 @@
+config.json
+node_modules/
+
+# Operating systems
+## Mac OS X
+.DS_Store
+## Windows
+Thumbs.db
+## Linux
+.directory
+
+# PhpStorm
+.idea

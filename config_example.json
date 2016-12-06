@@ -1,0 +1,9 @@
+{
+	"server": "",
+	"path": "/w/",
+	"username": "",
+	"password": "",
+	"debug": false,
+	"userAgent": "RemoveUserFromGroup/1.0 (admin@kolzchut.org.il) BasedOnnodemw",
+	"concurrency": 5
+}

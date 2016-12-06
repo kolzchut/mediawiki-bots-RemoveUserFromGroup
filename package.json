@@ -1,0 +1,21 @@
+{
+  "name": "removeUserFromGroup",
+  "version": "1.0.0",
+  "description": "Remove a user(s) from group(s) using the MediaWiki API",
+  "main": "removeUserFromGroup.js",
+  "bin": {
+    "removeusergroup": "./removeUserFromGroup.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MediaWiki"
+  ],
+  "author": "Dror S. [FFS]",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "nodemw": "^0.10.0"
+  }
+}
